@@ -1,0 +1,42 @@
+
+    <table style="width: 100%">
+      
+      <style>
+        table,
+        th,
+        td {
+          border: 1px solid black;
+          border-collapse: collapse;
+          box-sizing: border-box;
+        }
+        table {
+          align-self: center;
+        }
+        #sign1 {
+            
+            text-align: left;
+        }
+        #sign2 {
+            text-align: right;
+        }
+        #centre{
+            text-align:center;
+        }
+      </style>
+        
+      <tr>
+        <th style="width: 8%">MONTH</th>
+        <th style="width: 8%">BASIC PAY</th>
+        <th style="width: 8%">D.A.</th>
+        <th style="width: 8%">H.R.A</th>
+        <th style="width: 8%">M.A.</th>
+        <th style="width: 8%">H.T. ALLOWANCE</th>
+        <th style="width: 8%">GROSS SALARY</th>
+        <th style="width: 8%">P.F.</th>
+        <th style="width: 8%">P.TAX</th>
+        <th style="width: 8%">G.I.</th>
+        <th style="width: 8%">TOTAL DEDUCTION</th>
+        <th style="width: 8%">NET SALARY</th>
+      </tr>
+
+  
