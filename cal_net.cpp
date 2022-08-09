@@ -57,7 +57,7 @@ int main() {
     }
     cout<<"<h1 id=\"centre\">SALARY STATEMENT FOR THE YEAR "<<pasty<<"-"<<py<<" (A.Y. "<<py<<"-"<<fy<<")</h1>\n";
     cout<<"<H3 id=\"centre\" >"<<SN<<" PRIMARY SCHOOL</H3>\n";
-    cout<<"<H3 id=\"centre\" style=\"text-align:left;\">"<<Fname<<Mname<<Lname<<"<span style=\"float:right;\">  PAN- "<<PAN<<" </span> </H3>\n";
+    cout<<"<H3 id=\"centre\" style=\"text-align:left;\">"<<Fname<<" "<<Mname<<Lname<<"<span style=\"float:right;\">  PAN- "<<PAN<<" </span> </H3>\n";
 
     // Header ends
 
